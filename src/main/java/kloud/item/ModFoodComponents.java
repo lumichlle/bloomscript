@@ -6,5 +6,5 @@ import net.minecraft.entity.effect.StatusEffects;
 
 public class ModFoodComponents {
     public static final FoodComponent MAGIC_SOUP = new FoodComponent.Builder().snack().alwaysEdible().nutrition(10).saturationModifier(0.8f)
-            .statusEffect(new StatusEffectInstance(StatusEffects.HEALTH_BOOST, 200), 0.5f).build();
+            .statusEffect(new StatusEffectInstance(StatusEffects.HEALTH_BOOST, 500), 1.0f).build();
 }

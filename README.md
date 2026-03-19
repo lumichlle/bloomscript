@@ -7,6 +7,7 @@ You can craft powerful gear and wield a Magic Wand that turns magic petals into 
 - **Bloom Warrior Armor Set**: A complete set of armor crafted using magic petals.
 - **Magic Wand**: A unique weapon that shoots magic petals. No arrows required!
 - **Petal Harvesting**: Breaking any flower has a 50% chance to drop Magic Petals.
+- **Magic Soup**: A magic soup with a health boosting effect
 
 This mod is designed for players who want to take a step back and play the game in a laid-back style while being able to wear aesthetic armor and tools.
 The gear and magic wand are powerful enough to help you reach the End and defeat the Ender Dragon with ease, even if you aren't a combat pro.
@@ -20,13 +21,14 @@ Every warrior needs a source of power. The Bloom Warrior uses Magic Petals that 
 
 ### Crafting
 Use the magic petals to craft the blossom gear and blossom tools
-- Armor & Tools: Use Magic Petals in the same patterns you would use other materials (Iron or Diamonds).
-- The Magic Wand: (P = Magic Petal, / = Stick)
+- **Armor & Tools**: Use Magic Petals in the same patterns you would use other materials (Iron or Diamonds).
+- **The Magic Wand**: (P = Magic Petal, / = Stick)
 ```text
 [ ] [ ] [P]  
 [ ] [/] [ ]  
 [/] [ ] [ ]
 ```
+- **Magic Soup**: Requires one bowl of soup and three Magic Petals ordered arbitrarily.
 
 ## 📥 Installation
 1. Make sure you have [Fabric](https://fabricmc.net/use/installer/) installed (1.21)
