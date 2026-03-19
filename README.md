@@ -29,8 +29,8 @@ Use the magic petals to craft the blossom gear and blossom tools
 ```
 
 ## 📥 Installation
-1. Make sure you have Fabric installed (1.21)
-2. Download bloomscript-1.0.0.jar
+1. Make sure you have [Fabric](https://fabricmc.net/use/installer/) installed (1.21)
+2. Download the latest .jar file from the [Releases page](https://github.com/lumichlle/bloomscript/releases/latest).
 3. Place the downloaded .jar file into your Minecraft `mods` folder.
 4. Launch the game and become a bloom warrior!
 
