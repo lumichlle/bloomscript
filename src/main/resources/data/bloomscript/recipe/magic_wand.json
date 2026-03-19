@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  P",
+    " S ",
+    "S  "
+  ],
+  "key": {
+    "P": { "item": "bloomscript:magic_petal" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "id": "bloomscript:magic_wand", "count": 1 }
+}

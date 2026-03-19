@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    " P ",
+    " S "
+  ],
+  "key": {
+    "P": { "item": "bloomscript:magic_petal" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "id": "bloomscript:blossom_sword",
+    "count": 1
+  }
+}

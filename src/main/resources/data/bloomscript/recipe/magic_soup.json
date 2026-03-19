@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "bloomscript:magic_petal"
+    },
+    {
+      "item": "bloomscript:magic_petal"
+    },
+    {
+      "item": "bloomscript:magic_petal"
+    }
+  ],
+  "result": {
+    "id": "bloomscript:magic_soup",
+    "count": 1
+  }
+}

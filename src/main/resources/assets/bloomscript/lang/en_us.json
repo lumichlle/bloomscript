@@ -1,0 +1,19 @@
+{
+  "item.bloomscript.magic_wand": "Magic Wand",
+  "item.bloomscript.magic_petal": "Magic Petal",
+
+  "item.bloomscript.blossom_helmet": "Blossom Helmet",
+  "item.bloomscript.blossom_chestplate": "Blossom Chestplate",
+  "item.bloomscript.blossom_leggings": "Blossom Leggings",
+  "item.bloomscript.blossom_boots": "Blossom Boots",
+
+  "item.bloomscript.magic_soup": "Magic Soup",
+
+  "itemgroup.bloomscript.bloom_items": "Bloom Items",
+
+  "item.bloomscript.blossom_sword": "Blossom Sword",
+  "item.bloomscript.blossom_pickaxe": "Blossom Pickaxe",
+  "item.bloomscript.blossom_shovel": "Blossom Shovel",
+  "item.bloomscript.blossom_axe": "Blossom Axe",
+  "item.bloomscript.blossom_hoe": "Blossom Hoe"
+}
